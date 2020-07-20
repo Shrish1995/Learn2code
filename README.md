@@ -1,2 +1,2 @@
 # Learn2code
-Young IT professional, learning the skills to code. 
+Young IT professional playing with and around data!!
